@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header section  */
+.banner-heading{
+    font-weight: 700;
+    font-size: 30px;
+}
+.bg-honda{
+    background: #264653;
+}
+.btn-honda{
+    background: #E76F51;
+border-radius: 5px;
+}
+/* feture section  */
+.feture_honda{
+    color: #E76F51;
+}
+.honda_color{
+    filter: grayscale(100%)
+}
+.honda{
+    width: 288px;
+height: 243px;
+}
+/* client section  */
+.text_honda{
+    color: #E76F51;
+}
+.client_img{
+    width: 50%;
+    margin-left:27%;
+    padding-bottom: 20px;
+}
+.client_description{
+    color: #6C6C6C;
+}
+.star{
+    padding-bottom: 13px;
+}
+.fa-star{
+    font-size: 18px;
+}
+.fa-star.filled{
+    color: #E77C40;
+}
+.fa-star.empty{
+    color: #f3cbb4;
+}
+.honda_client{
+    color: #23A6F0;
+}
+/* frequently section  */
+.frequently_img{
+    width: 450px;
+height: 450px;
+}
